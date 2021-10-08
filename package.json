@@ -1,0 +1,17 @@
+{
+  "name": "mvc-template",
+  "version": "1.0.0",
+  "description": "this is an  architecture template on MVC ",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
